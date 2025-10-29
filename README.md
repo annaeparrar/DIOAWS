@@ -1,6 +1,5 @@
 # Desafio DIO: Workflows de Preços com AWS Step Functions
 # Anna Elizabeth Parra Rausseo
-# GITHUB
 # https://github.com/annaeparrar/
 
 > **Status:** Concluído
