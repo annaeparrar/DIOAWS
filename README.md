@@ -1,5 +1,7 @@
 # Desafio DIO: Workflows de Preços com AWS Step Functions
 # Anna Elizabeth Parra Rausseo
+# GITHUB
+# https://github.com/annaeparrar/
 
 > **Status:** Concluído
 
@@ -100,5 +102,4 @@ Aqui está um exemplo de como o loop de reavaliação é configurado usando a li
     }
   }
 }
-# GITHUB
-# https://github.com/annaeparrar/
+
