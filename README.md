@@ -57,6 +57,9 @@ A Máquina de Estado criada simula o processo de aprovação de preços. A princ
 6.  **Volta à Avaliação:** Após o ajuste, o fluxo **retorna à etapa `Avaliação do Preço`** para re-verificar o novo valor (o loop).
 7.  **Libera Preço (Succeed):** Fim do workflow com sucesso.
 
+### Diagrama do Workflow
+
+![Diagrama do Workflow de Preços - Loop de Avaliação e Ajuste](./fluxo.png)
 
 ---
 
